@@ -1,0 +1,105 @@
+.login{
+	
+	font-family: 'Open Sans', sans-serif;
+
+	.marketing{
+		height: 100vh;
+	}
+
+	.form-licsu{
+		height: 100vh;
+		background-color: @color-morado;
+		color: @color-white;
+
+		padding-left: 20px;
+		padding-right: 30px;
+		
+		.logo{
+			margin-top: 5vh;
+				.img-responsive {
+				    margin: 0 auto;
+				}			
+		}
+
+		form{
+				
+			width: 350px;
+			margin-left: auto;
+    		margin-right: auto;
+
+			.user, .pass{
+				border-radius: @0px;
+				background-color: @color-gris-light;
+				border-left: 1px solid transparent;
+				border-top: 1px solid transparent;
+				border-right: 1px solid transparent;
+				border-bottom: 1px solid transparent;
+				box-shadow: none; 
+				height: 45px;	
+
+				&::-webkit-input-placeholder{				
+					font-size: 12px;				
+					font-weight: 600;				
+					padding: 2px 5px;				
+					text-transform: uppercase;			
+				}						
+			}
+
+			.user:focus{
+				background-color: @color-white;					
+				box-shadow: none; 
+				border-top: 2px inset @color-fucsia;
+				border-left: 2px inset @color-fucsia;
+				border-right: 2px inset @color-fucsia;
+				border-bottom: 0px;
+			}
+
+			.pass{
+				margin-top: -15px;
+			}
+
+			.pass:focus{
+				background-color: @color-white;					
+				box-shadow: none; 
+				border-top: 0px;
+				border-left: 2px inset @color-fucsia;
+				border-right: 2px inset @color-fucsia;
+				border-bottom: 2px inset @color-fucsia;
+			}
+			
+			.btn-login{
+				border-radius: @0px;
+				border: 1px solid @color-gris-light;
+				
+				&:focus{
+					border: 1px solid @color-gris-light;
+				}
+
+			}
+
+			.ayuda{
+				display: block;
+				margin-top: 6px;
+				text-align: center;
+				color: @color-white;
+				&:focus, &:hover, &:active{
+					text-decoration: none;
+					color: @color-gris-dark;
+				}
+			}
+		}
+	}
+
+
+	footer{
+		position: absolute;
+		bottom: 0;
+		right: 50px;
+
+		color: @color-gris-light;
+
+		font-size: 12px;
+		font-style: italic;
+
+	}
+}

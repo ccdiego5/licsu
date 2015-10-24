@@ -1,0 +1,313 @@
+.noradius {
+  border-radius: 0px !important;
+}
+.no-margin {
+  margin: 0px !important;
+}
+.no-padding {
+  padding: 0px !important;
+}
+.m-t-0 {
+  margin-top: 0px !important;
+}
+.m-t-5 {
+  margin-top: 5px !important;
+}
+.m-t-10 {
+  margin-top: 10px !important;
+}
+.m-t-15 {
+  margin-top: 15px !important;
+}
+.m-t-20 {
+  margin-top: 20px !important;
+}
+.m-t-25 {
+  margin-top: 25px !important;
+}
+.m-t-30 {
+  margin-top: 30px !important;
+}
+.m-t-35 {
+  margin-top: 35px !important;
+}
+.m-t-40 {
+  margin-top: 40px !important;
+}
+.m-t-45 {
+  margin-top: 45px !important;
+}
+.m-t-50 {
+  margin-top: 50px !important;
+}
+.m-t-55 {
+  margin-top: 55px !important;
+}
+.m-t-60 {
+  margin-top: 60px !important;
+}
+.m-l-0 {
+  margin-left: 0px !important;
+}
+.m-l-5 {
+  margin-left: 5px !important;
+}
+.m-l-10 {
+  margin-left: 10px !important;
+}
+.m-l-15 {
+  margin-left: 15px !important;
+}
+.m-l-20 {
+  margin-left: 20px !important;
+}
+.m-l-25 {
+  margin-left: 25px !important;
+}
+.m-l-30 {
+  margin-left: 30px !important;
+}
+.m-l-35 {
+  margin-left: 35px !important;
+}
+.m-l-40 {
+  margin-left: 40px !important;
+}
+.m-l-45 {
+  margin-left: 45px !important;
+}
+.m-l-50 {
+  margin-left: 50px !important;
+}
+.m-l-55 {
+  margin-left: 55px !important;
+}
+.m-l-60 {
+  margin-left: 60px !important;
+}
+.m-r-0 {
+  margin-right: 0px !important;
+}
+.m-r-5 {
+  margin-right: 5px !important;
+}
+.m-r-10 {
+  margin-right: 10px !important;
+}
+.m-r-15 {
+  margin-right: 15px !important;
+}
+.m-r-20 {
+  margin-right: 20px !important;
+}
+.m-r-25 {
+  margin-right: 25px !important;
+}
+.m-r-30 {
+  margin-right: 30px !important;
+}
+.m-r-35 {
+  margin-right: 35px !important;
+}
+.m-r-40 {
+  margin-right: 40px !important;
+}
+.m-r-45 {
+  margin-right: 45px !important;
+}
+.m-r-50 {
+  margin-right: 50px !important;
+}
+.m-r-55 {
+  margin-right: 55px !important;
+}
+.m-r-60 {
+  margin-right: 60px !important;
+}
+.m-b-0 {
+  margin-bottom: 0px !important;
+}
+.m-b-5 {
+  margin-bottom: 5px !important;
+}
+.m-b-10 {
+  margin-bottom: 10px !important;
+}
+.m-b-15 {
+  margin-bottom: 15px !important;
+}
+.m-b-20 {
+  margin-bottom: 20px !important;
+}
+.m-b-25 {
+  margin-bottom: 25px !important;
+}
+.m-b-30 {
+  margin-bottom: 30px !important;
+}
+.m-b-35 {
+  margin-bottom: 35px !important;
+}
+.m-b-40 {
+  margin-bottom: 40px !important;
+}
+.m-b-45 {
+  margin-bottom: 45px !important;
+}
+.m-b-50 {
+  margin-bottom: 50px !important;
+}
+.m-b-55 {
+  margin-bottom: 55px !important;
+}
+.m-b-60 {
+  margin-bottom: 60px !important;
+}
+.no-padding {
+  padding: 0px !important;
+}
+.padding-5 {
+  margin-top: 5px !important;
+}
+.padding-10 {
+  margin-top: 10px !important;
+}
+.padding-15 {
+  margin-top: 15px !important;
+}
+.padding-20 {
+  margin-top: 20px !important;
+}
+.padding-25 {
+  margin-top: 25px !important;
+}
+.padding-30 {
+  margin-top: 30px !important;
+}
+.padding-35 {
+  margin-top: 35px !important;
+}
+.padding-40 {
+  margin-top: 40px !important;
+}
+.padding-45 {
+  margin-top: 45px !important;
+}
+.padding-50 {
+  margin-top: 50px !important;
+}
+.padding-55 {
+  margin-top: 55px !important;
+}
+.padding-60 {
+  margin-top: 60px !important;
+}
+body {
+  overflow-x: hidden;
+  background-color: gainsboro;
+}
+.navbar-licsu {
+  background-color: #fefefe;
+  border-bottom: 1px solid #69008c;
+  box-shadow: 0 1px 2px #69008c;
+  border-radius: 0px !important;
+  border-top: 0px !important;
+  border-right: 0px !important;
+  border-left: 0px !important;
+}
+.navbar-licsu .navbar-brand img {
+  margin-top: -10px;
+}
+.contenido {
+  background-color: #fefefe;
+  broder: 1px solid #c8c8c8;
+  padding: 20px !important;
+}
+.login {
+  font-family: 'Open Sans', sans-serif;
+}
+.login .marketing {
+  height: 100vh;
+}
+.login .form-licsu {
+  height: 100vh;
+  background-color: #69008c;
+  color: #fefefe;
+  padding-left: 20px;
+  padding-right: 30px;
+}
+.login .form-licsu .logo {
+  margin-top: 5vh;
+}
+.login .form-licsu .logo .img-responsive {
+  margin: 0 auto;
+}
+.login .form-licsu form {
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.login .form-licsu form .user,
+.login .form-licsu form .pass {
+  border-radius: 0px !important;
+  background-color: gainsboro;
+  border-left: 1px solid transparent;
+  border-top: 1px solid transparent;
+  border-right: 1px solid transparent;
+  border-bottom: 1px solid transparent;
+  box-shadow: none;
+  height: 45px;
+}
+.login .form-licsu form .user::-webkit-input-placeholder,
+.login .form-licsu form .pass::-webkit-input-placeholder {
+  font-size: 12px;
+  font-weight: 600;
+  padding: 2px 5px;
+  text-transform: uppercase;
+}
+.login .form-licsu form .user:focus {
+  background-color: #fefefe;
+  box-shadow: none;
+  border-top: 2px inset #e21e79;
+  border-left: 2px inset #e21e79;
+  border-right: 2px inset #e21e79;
+  border-bottom: 0px;
+}
+.login .form-licsu form .pass {
+  margin-top: -15px;
+}
+.login .form-licsu form .pass:focus {
+  background-color: #fefefe;
+  box-shadow: none;
+  border-top: 0px;
+  border-left: 2px inset #e21e79;
+  border-right: 2px inset #e21e79;
+  border-bottom: 2px inset #e21e79;
+}
+.login .form-licsu form .btn-login {
+  border-radius: 0px !important;
+  border: 1px solid gainsboro;
+}
+.login .form-licsu form .btn-login:focus {
+  border: 1px solid gainsboro;
+}
+.login .form-licsu form .ayuda {
+  display: block;
+  margin-top: 6px;
+  text-align: center;
+  color: #fefefe;
+}
+.login .form-licsu form .ayuda:focus,
+.login .form-licsu form .ayuda:hover,
+.login .form-licsu form .ayuda:active {
+  text-decoration: none;
+  color: #c8c8c8;
+}
+.login footer {
+  position: absolute;
+  bottom: 0;
+  right: 50px;
+  color: gainsboro;
+  font-size: 12px;
+  font-style: italic;
+}
